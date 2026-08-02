@@ -1,0 +1,10 @@
+{
+  "name": "職種求人倍率",
+  "short_name": "職種求人倍率",
+  "description": "ハローワークの職種別有効求人数と有効求職者数、倍率を地域・雇用区分・年度で比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0eee8",
+  "theme_color": "#263a45",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

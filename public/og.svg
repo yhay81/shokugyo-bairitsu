@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f0eee8"/>
+  <rect x="70" y="62" width="1060" height="506" fill="#d5d9dc" stroke="#263a45" stroke-width="4"/>
+  <rect x="94" y="86" width="1012" height="458" fill="none" stroke="#a2a9ae" stroke-width="2"/>
+  <g font-family="sans-serif" font-weight="700" text-anchor="middle">
+    <g fill="#263a45">
+      <rect x="124" y="108" width="55" height="40"/><rect x="185" y="108" width="55" height="40"/>
+      <rect x="246" y="108" width="55" height="40"/><rect x="307" y="108" width="55" height="40"/>
+      <rect x="368" y="108" width="55" height="40"/><rect x="429" y="108" width="55" height="40"/>
+      <rect x="490" y="108" width="55" height="40"/><rect x="551" y="108" width="55" height="40"/>
+      <rect x="612" y="108" width="55" height="40"/><rect x="673" y="108" width="55" height="40"/>
+      <rect x="734" y="108" width="55" height="40"/>
+    </g>
+    <g fill="#fff" font-size="19">
+      <text x="151" y="135">A</text><text x="212" y="135">B</text><text x="273" y="135">C</text>
+      <text x="334" y="135">D</text><text x="395" y="135">E</text><text x="456" y="135">F</text>
+      <text x="517" y="135">G</text><text x="578" y="135">H</text><text x="639" y="135">I</text>
+      <text x="700" y="135">J</text><text x="761" y="135">K</text>
+    </g>
+  </g>
+  <rect x="128" y="178" width="758" height="332" fill="#fffefa" stroke="#263a45" stroke-width="4"/>
+  <text x="166" y="226" fill="#b85c3f" font-family="sans-serif" font-size="24" font-weight="800">25 · 一般事務従事者</text>
+  <path d="M166 247h680" stroke="#d4d1c9" stroke-width="2"/>
+  <g>
+    <rect x="168" y="288" width="228" height="138" fill="#f1dfd7" stroke="#263a45" stroke-width="3"/>
+    <rect x="176" y="296" width="228" height="138" fill="none" stroke="#b85c3f" stroke-width="2"/>
+    <text x="196" y="332" fill="#74422f" font-family="sans-serif" font-size="23" font-weight="800">有効求人数</text>
+    <text x="196" y="382" fill="#202a34" font-family="sans-serif" font-size="34" font-weight="800">1,633,497</text>
+    <rect x="610" y="288" width="228" height="138" fill="#dfe7f0" stroke="#263a45" stroke-width="3"/>
+    <rect x="618" y="296" width="228" height="138" fill="none" stroke="#526d8c" stroke-width="2"/>
+    <text x="638" y="332" fill="#3e5875" font-family="sans-serif" font-size="23" font-weight="800">有効求職者数</text>
+    <text x="638" y="382" fill="#202a34" font-family="sans-serif" font-size="34" font-weight="800">4,836,025</text>
+    <circle cx="503" cy="351" r="58" fill="#fffefa" stroke="#263a45" stroke-width="3"/>
+    <text x="503" y="345" fill="#64707b" font-family="sans-serif" font-size="24" font-weight="800" text-anchor="middle">÷</text>
+    <text x="503" y="383" fill="#b85c3f" font-family="sans-serif" font-size="27" font-weight="800" text-anchor="middle">0.34倍</text>
+  </g>
+  <text x="166" y="474" fill="#64707b" font-family="sans-serif" font-size="22">全国 · パートを含む常用 · 2025年度</text>
+  <g font-family="sans-serif">
+    <text x="950" y="222" fill="#375f6b" font-size="24" font-weight="800">73職種</text>
+    <text x="950" y="268" fill="#375f6b" font-size="24" font-weight="800">48地域</text>
+    <text x="950" y="314" fill="#375f6b" font-size="24" font-weight="800">3雇用区分</text>
+    <text x="950" y="360" fill="#375f6b" font-size="24" font-weight="800">3年度</text>
+    <text x="950" y="430" fill="#263a45" font-size="28" font-weight="800">職種求人倍率</text>
+  </g>
+</svg>
